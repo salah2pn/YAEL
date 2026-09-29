@@ -1,0 +1,6 @@
+{
+  "name": "YAEL AI - التحضير لامتحان יע\"ל",
+  "description": "منظومة ذكية وشاملة للتحضير لامتحان יע\"ל / יעלנט مع تتبع الأداء، تحليل الأخطاء، تدريبات مخصصة، وتقييم الكتابة بالذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
